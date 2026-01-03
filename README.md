@@ -1,38 +1,30 @@
-# vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+Concept de l’application et le site ils ont le meme fonctionnalite mais pour aide utilisateur de lutte contre l’addiction plus rapidement .
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Recommended Browser Setup
+L’application repose principalement sur l’impact émotionnel, qui constitue l’originalité centrale du projet. Elle propose des histoires inspirées de faits réels, profondément touchantes, racontant des parcours de personnes ayant perdu leurs enfants, leur famille ou leur avenir à cause de l’addiction. Ces récits visent à provoquer une prise de conscience forte chez l’utilisateur à travers l’écran.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+En parallèle, l’application présente la position et les sanctions de l’État à l’égard de la consommation de substances addictives, afin d’informer clairement l’utilisateur sur les conséquences légales et dissuader toute tentative d’essai.
 
-## Customize configuration
+Pour accompagner le processus de sevrage, l’application propose des activités quotidiennes (relaxation, routines simples, exercices mentaux) destinées à aider l’utilisateur à oublier l’envie, se détendre et retrouver un équilibre psychologique.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Concernant l’aspect social, la notion de communauté a été remplacée par des podcasts, afin d’éviter le risque de création de cellules négatives ou d’influences dangereuses. Un chat intelligent, au ton amical et bienveillant, est également intégré : il communique comme un ami proche, avec des messages chaleureux, des sourires et un langage simple et moderne, renforçant le sentiment de proximité et de soutien.
 
-## Project Setup
+L’application inclut aussi une section anatomie et santé, visant à améliorer la conscience du consommateur. Elle explique les effets réels des substances sur le corps humain à l’aide d’images réelles et explicites, permettant une compréhension même pour les personnes ne maîtrisant pas bien la langue française.
 
-```sh
-npm install
-```
+Enfin, une partie aide et urgence est intégrée, regroupant :
 
-### Compile and Hot-Reload for Development
+Les centres de désintoxication,
 
-```sh
-npm run dev
-```
+Les numéros de psychologues et d’assistance,
 
-### Compile and Minify for Production
+Des contacts de confiance,
 
-```sh
-npm run build
-```
+Un espace d’urgence contenant les gestes de premiers secours,
+
+Un kit d’urgence personnalisé (maladies connues, allergies, numéros à contacter),
+
+Les consignes à suivre en cas d’overdose.
+
+Cette application se veut ainsi un outil complet, humain et préventif, combinant émotion, information, accompagnement et sécurité, sans jamais se substituer au rôle des professionnels de santé.
